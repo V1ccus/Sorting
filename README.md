@@ -42,13 +42,13 @@
 
 . . .
 
-![bubble_sort](/2.Bubble_Sort/screenshot/bubble.jpg)
+![bubble_sort](https://github.com/V1ccus/Sorting/blob/main/2.%20Bubble_Sort/screenshot/bubble.jpg)
 
 **( Exchange_Sort )**
 
 . . .
 
-![exchange_sort](/3.Exchange_Sort/screenshot/exchange.jpg)
+![exchange_sort](https://github.com/V1ccus/Sorting/blob/main/3.%20Exchange_Sort/screenshot/exchange.jpg)
 
 **( Insertion_Sort )**
 
@@ -60,4 +60,4 @@
 
 . . .
 
-![selection_sort](/5.Selection_Sort/screenshot/selection.jpg)
+![selection_sort](https://github.com/V1ccus/Sorting/blob/main/5.%20Selection_Sort/screenshot/selection.jpg)
