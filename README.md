@@ -33,8 +33,8 @@
 ###### TUGAS 2 - OUTPUT
 **( Challange )**
 . . .
-![challange_1](/assets/images/a.png)
-![challange_2](/1.Challenge/screenshot/b.jpg)
+![challange_1](../1.Challenge/screenshot/a.jpg)
+![challange_2](../1.Challenge/screenshot/b.jpg)
 
 **( Bubble_Sort )**
 . . .
