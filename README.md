@@ -31,7 +31,9 @@
 >Selama proses, pembandingan dan pengubahan hanya dilakukan pada indeks pembanding saja, pertukaran data secara fisik terjadi pada akhir proses.
 
 
-```  
+``` 
+| Language | ID |
+-----------------
 source : Evangs Mailoa, S.Kom., M.Cs., class of TC122G. 2022. ASD - Sorting.pdf (February 21).
 ```
 
