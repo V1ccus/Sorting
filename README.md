@@ -31,23 +31,23 @@
 >Selama proses, pembandingan dan pengubahan hanya dilakukan pada indeks pembanding saja, pertukaran data secara fisik terjadi pada akhir proses.
 
 ###### TUGAS 2 - OUTPUT
-**[x]( Challange )**
-...
+**( Challange )**
+. . .
 !(\1. Challenge\screenshot\a.jpg)
 !(\1. Challenge\screenshot\b.jpg)
 
-**[x]( Bubble_Sort )**
-...
+**( Bubble_Sort )**
+. . .
 !(\2. Bubble_Sort\screenshot\bubble.jpg)
 
-**[x]( Exchange_Sort )**
-...
+**( Exchange_Sort )**
+. . .
 !(\3. Exchange_Sort\screenshot\exchange.jpg)
 
-**[x]( Insertion_Sort )**
-...
+**( Insertion_Sort )**
+. . .
 !(\4. Insertion_Sort\screenshot\insertion.jpg)
 
-**[x]( Selection_Sort )**
-...
+**( Selection_Sort )**
+. . .
 !(\5. Selection_Sort\screenshot\selection.jpg)
