@@ -32,22 +32,32 @@
 
 ###### TUGAS 2 - OUTPUT
 **( Challange )**
+
 . . .
-![challange_1](../1.Challenge/screenshot/a.jpg)
-![challange_2](../1.Challenge/screenshot/b.jpg)
+
+![challange_1](https://github.com/V1ccus/Sorting/blob/main/1.%20Challenge/screenshot/a.jpg)
+![challange_2](https://github.com/V1ccus/Sorting/blob/main/1.%20Challenge/screenshot/b.jpg)
 
 **( Bubble_Sort )**
+
 . . .
+
 ![bubble_sort](/2.Bubble_Sort/screenshot/bubble.jpg)
 
 **( Exchange_Sort )**
+
 . . .
+
 ![exchange_sort](/3.Exchange_Sort/screenshot/exchange.jpg)
 
 **( Insertion_Sort )**
+
 . . .
+
 ![insertion_sort](/4.Insertion_Sort/screenshot/insertion.jpg)
 
 **( Selection_Sort )**
+
 . . .
+
 ![selection_sort](/5.Selection_Sort/screenshot/selection.jpg)
