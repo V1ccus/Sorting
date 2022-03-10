@@ -37,6 +37,11 @@ source : Evangs Mailoa, S.Kom., M.Cs., class of TC122G. 2022. ASD - Sorting.pdf 
 
 
 **TUGAS 2 - OUTPUT**
+
+![sorting_program](https://github.com/V1ccus/Sorting/blob/main/1.%20Challenge/screenshot/menu/sorting_program.jpg)
+![size](https://github.com/V1ccus/Sorting/blob/main/1.%20Challenge/screenshot/menu/size.jpg)
+![main_menu](https://github.com/V1ccus/Sorting/blob/main/1.%20Challenge/screenshot/menu/main_menu.jpg)
+
 ###### **( Challange )**
 
 . . .
