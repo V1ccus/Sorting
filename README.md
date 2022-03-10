@@ -30,6 +30,12 @@
 >Misalnya untuk putaran pertama, akan dicari data dengan nilai terkecil dan data ini akan ditempatkan di indeks terkecil (data[0]), pada putaran kedua akan dicari data kedua terkecil, dan akan ditempatkan di indeks kedua (data[1]).
 >Selama proses, pembandingan dan pengubahan hanya dilakukan pada indeks pembanding saja, pertukaran data secara fisik terjadi pada akhir proses.
 
+
+```  
+source : Evangs Mailoa, S.Kom., M.Cs., class of TC122G. 2022. ASD - Sorting.pdf (February 21).
+```
+
+
 **TUGAS 2 - OUTPUT**
 ###### **( Challange )**
 
@@ -54,7 +60,7 @@
 
 . . .
 
-![insertion_sort](https://github.com/V1ccus/Sorting/blob/main/3.%20Insertion_Sort/screenshot/insetion.jpg)
+![insertion_sort](https://github.com/V1ccus/Sorting/blob/main/4.%20Insertion_Sort/screenshot/insertion.jpg)
 
 ###### **( Selection_Sort )**
 
