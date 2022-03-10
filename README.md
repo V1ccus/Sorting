@@ -33,21 +33,21 @@
 ###### TUGAS 2 - OUTPUT
 **( Challange )**
 . . .
-!(\1. Challenge\screenshot\a.jpg)
-!(\1. Challenge\screenshot\b.jpg)
+!(/1.Challenge/screenshot/a.jpg)
+!(/1.Challenge/screenshot/b.jpg)
 
 **( Bubble_Sort )**
 . . .
-!(\2. Bubble_Sort\screenshot\bubble.jpg)
+!(/2.Bubble_Sort/screenshot/bubble.jpg)
 
 **( Exchange_Sort )**
 . . .
-!(\3. Exchange_Sort\screenshot\exchange.jpg)
+!(/3.Exchange_Sort/screenshot/exchange.jpg)
 
 **( Insertion_Sort )**
 . . .
-!(\4. Insertion_Sort\screenshot\insertion.jpg)
+!(/4.Insertion_Sort/screenshot/insertion.jpg)
 
 **( Selection_Sort )**
 . . .
-!(\5. Selection_Sort\screenshot\selection.jpg)
+!(/5.Selection_Sort/screenshot/selection.jpg)
