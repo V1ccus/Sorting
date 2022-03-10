@@ -54,7 +54,7 @@
 
 . . .
 
-![insertion_sort](https://github.com/V1ccus/Sorting/blob/main/3.%20Insertion_Sort/screenshot/insetion.jpg)
+![insertion_sort](https://github.com/V1ccus/Sorting/blob/main/4.%20Insertion_Sort/screenshot/insertion.jpg)
 
 ###### **( Selection_Sort )**
 
