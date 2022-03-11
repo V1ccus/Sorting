@@ -1,6 +1,6 @@
 # ALGORITMA DAN STRUKTUR DATA
 ## TC122G | PERTEMUAN 6
-
+`| Language | ID |`
 ###### SORTING
 >Pengurutan data dalam struktur data sangat penting terutama untuk data yang bertipe data numerik ataupun karakter.
 >Pengurutan dapat dilakukan secara ascending (urut naik) dan descending (urut turun).
@@ -31,10 +31,9 @@
 >Selama proses, pembandingan dan pengubahan hanya dilakukan pada indeks pembanding saja, pertukaran data secara fisik terjadi pada akhir proses.
 
 
-``` 
-| Language | ID |
------------------
-source : Evangs Mailoa, S.Kom., M.Cs., class of TC122G. 2022. ASD - Sorting.pdf (February 21).
+```
+source :
+Evangs Mailoa, S.Kom., M.Cs., class of TC122G. 2022. ASD - Sorting.pdf (February 21).
 ```
 
 
