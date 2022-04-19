@@ -35,7 +35,7 @@
 `| Language | ID |`
 ```
 source :
-Evangs Mailoa, S.Kom., M.Cs., class of TC122G. 2022. ASD - Sorting.pdf (February 21).
+Evangs Mailoa, S.Kom., M.Cs., class of TC122G. 2022. ASD - Sorting.pdf (February 21)
 ```
 
 
