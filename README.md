@@ -1,12 +1,14 @@
 # ALGORITMA DAN STRUKTUR DATA
 ## TC122G | PERTEMUAN 6
-`| Language | ID |`
-###### SORTING
+
+**SORTING**
+
 >Pengurutan data dalam struktur data sangat penting terutama untuk data yang bertipe data numerik ataupun karakter.
 >Pengurutan dapat dilakukan secara ascending (urut naik) dan descending (urut turun).
 >Pengurutan (Sorting) adalah proses pengurutan data yang sebelumnya disusun secara acak sehingga tersusun secara teratur menurut aturan tertentu.
 
 **4 MOTODE UMUM**
+
 ###### **A. Bubble Sort**
 >Metode sorting termudah.
 >Diberi nama “Bubble” karena proses pengurutan secara berangsur-angsur bergerak/berpindah ke posisinya yang tepat, seperti gelembung yang keluar dari sebuah gelas bersoda.
@@ -30,7 +32,7 @@
 >Misalnya untuk putaran pertama, akan dicari data dengan nilai terkecil dan data ini akan ditempatkan di indeks terkecil (data[0]), pada putaran kedua akan dicari data kedua terkecil, dan akan ditempatkan di indeks kedua (data[1]).
 >Selama proses, pembandingan dan pengubahan hanya dilakukan pada indeks pembanding saja, pertukaran data secara fisik terjadi pada akhir proses.
 
-
+`| Language | ID |`
 ```
 source :
 Evangs Mailoa, S.Kom., M.Cs., class of TC122G. 2022. ASD - Sorting.pdf (February 21).
